@@ -1,0 +1,19 @@
+#screen{
+    border: 1px solid white;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+body{
+    background: rgb(195,20,50);
+    background: linear-gradient(0deg, rgba(195,20,50,1) 0%, rgba(36,11,54,1) 100vh);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h4{
+    text-align: center;
+    color: white;
+    
+}
+
