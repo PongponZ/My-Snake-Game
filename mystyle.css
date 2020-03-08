@@ -1,14 +1,16 @@
 #screen{
-    border: 1px solid white;
-    background-color: #ffffff;
+    border: 1px solid rgb(165, 151, 151);
+    background-color: #8d3131;
     border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 body{
     background: rgb(195,20,50);
     background: linear-gradient(0deg, rgba(195,20,50,1) 0%, rgba(36,11,54,1) 100vh);
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 95.5vh;
+    font-family: 'Roboto', sans-serif;
 }
 
 h4{
@@ -17,3 +19,8 @@ h4{
     
 }
 
+h1{
+    text-align: center;
+    color: white;
+    
+}
