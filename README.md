@@ -1,2 +1,2 @@
 # My-Snake-Game
-Using Html Css js
+กำลังหัดทำอยู่ครับ
